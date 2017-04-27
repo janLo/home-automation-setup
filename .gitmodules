@@ -1,0 +1,3 @@
+[submodule "hmcfgusb/hmcfgusb"]
+	path = hmcfgusb/hmcfgusb
+	url = https://github.com/janLo/hmcfgusb.git
