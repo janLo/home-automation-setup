@@ -1,5 +1,7 @@
 version: '2'
+
 services:
     hmcfgusb:
         build: hmcfgusb
-
+    homegear:
+        build: homegear
