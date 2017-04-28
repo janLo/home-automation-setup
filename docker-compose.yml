@@ -5,3 +5,7 @@ services:
         build: hmcfgusb
     homegear:
         build: homegear
+    pilight:
+        build: pilight
+    hass:
+        build: hass
