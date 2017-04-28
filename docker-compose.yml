@@ -7,5 +7,7 @@ services:
         build: homegear
     pilight:
         build: pilight
+    mosquitto:
+        build: mosquitto
     hass:
         build: hass
